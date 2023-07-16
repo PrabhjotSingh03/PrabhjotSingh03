@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, Prabhjot Singh Here...!</h1>
 
 - 💻 I am a full-stack web developer
-- 📫 Reach me at: prabhjot.sains@gmail.com 
+- 📫 Reach me at: prabhjot.sains@gmail.com
+- 👀 I’m interested in traveling, Video Gaming, watching movies, Shows and listening to music.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
