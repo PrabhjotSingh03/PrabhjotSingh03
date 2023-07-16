@@ -33,12 +33,3 @@
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="php" width="40" height="40"/> </a> 
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrabhjotSingh03&show_icons=true&locale=en&layout=compact" alt="PrabhjotSingh03" /></p>
-
-<div>
-  
-  [![aminrachana’s github stats](https://github-readme-stats.vercel.app/api?username=PrabhjotSingh03&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/PrabhjotSingh03)
-  
-
-  
- </div>
-
