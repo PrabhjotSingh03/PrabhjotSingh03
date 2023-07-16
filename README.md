@@ -26,6 +26,7 @@
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="php" width="40" height="40"/> </a> 
+    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/cypress.svg" alt="php" width="40" height="40"/> </a> 
    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" alt="php" width="40" height="40"/> </a> 
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="php" width="40" height="40"/> </a> 
   
