@@ -7,7 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prabhjot-singh-sains/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhjot-singh-sains" height="30" width="40" /></a>
-   <a href="https://www.prabhjotsinghsains.co.in"><img align="center" src="https://prabhjotsinghsains.co.in/images/icon__white.png" alt="prabhjot-singh-sains" height="30" width="40"  /></a>
+<a href="https://www.prabhjotsinghsains.co.in"><img align="center" src="https://prabhjotsinghsains.co.in/images/icon__white.png" alt="prabhjot-singh-sains" height="30" width="40"/></a>
+<a href="mailto:prabhjot.sains@gmail.com"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" alt="prabhjot-singh-sains" height="30" width="40"/></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
