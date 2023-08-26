@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, Prabhjot Singh Here...!</h1>
 
 - 💻 I am a full-stack web developer
-- 📫 Reach me at: prabhjot.sains@gmail.com
 - 📫 My Portfolio: <a href="https://www.prabhjotsinghsains.co.in" target="blank">prabhjotsinghsains.co.in</a>
 
 <h3 align="left">Connect with me:</h3>
