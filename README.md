@@ -38,5 +38,5 @@
 <details>
   <summary>GitHub Stats</summary>
   
-(https://github-readme-stats.vercel.app/api/top-langs?username=PrabhjotSingh03&theme=vue&show_icons=true)](https://github.com/PrabhjotSingh03)
+[![Prabhjot's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=PrabhjotSingh03&theme=vue&show_icons=true)](https://github.com/PrabhjotSingh03)
 </details>
