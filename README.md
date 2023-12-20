@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Prabhjot Singh Here...!</h1>
 
 - 💻 I am a full-stack web developer
-- 📫 My Portfolio: <a href="https://cyberprabhjot.co.in/" target="blank">prabhjotsinghsains.co.in</a>
+- 📫 My Portfolio: <a href="https://cyberprabhjot.co.in/" target="blank">https://cyberprabhjot.co.in</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
